@@ -1,6 +1,3 @@
 # hello-word
-第一个项目
-
-hello:
-  This is my first project!
-  
+测试
+  一个项目，怎么合并分支
